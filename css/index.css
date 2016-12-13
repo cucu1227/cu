@@ -1,0 +1,14 @@
+.topPage{
+	height:600px;
+	width:900px;
+	background-image: url(http://r.photo.store.qq.com/psb?/bddfd5e3-642d-40f5-84d2-84269ed5075c/KkV*HYfKuMzuNFtwBdtVXKSFwio8Q90wZXLtiGDA2.o!/o/dPw0YV.XHgAA&bo=IAMkAoQDaQIBAM4);
+	position: absolute;
+	left: calc(50% - 450px);
+}
+.topPage .title {
+	color: rgb(98, 123,135);
+	position: relative;
+	left:300px;
+	top:100px;
+}
+
